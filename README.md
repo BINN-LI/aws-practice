@@ -1,2 +1,0 @@
-# aws-practice
-aws-practice
